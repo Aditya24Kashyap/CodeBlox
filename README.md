@@ -2,6 +2,8 @@
 
 CodeBlox is a sleek in-browser code editor inspired by CodePen and JSFiddle. Built using **React**, **Vite**, **Chakra UI**, and **Monaco Editor**, it allows you to write and preview HTML, CSS, and JavaScript code in real-time.
 
+code-blox.vercel.app
+
 ---
 
 ## 🚀 Features
